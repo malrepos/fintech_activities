@@ -20,7 +20,7 @@
 
  ## Day 1
  
- [variables](Module3-Day01-variables-01.ipynb)
+ [Variables Activity](Module3-Day01-variables-01.ipynb)
  
  ## Day 2
  
