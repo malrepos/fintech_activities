@@ -19,6 +19,7 @@
 # Module 3 : Python and Pandas
 
  ## Day 1
+ [variable](Module3-Day01-variables-01.ipynb)
  
  ## Day 2
  
