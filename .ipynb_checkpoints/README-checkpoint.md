@@ -26,6 +26,8 @@
  
  [Condition Control Flow 02](Module3-Day01-condition_flow02.ipynb)
  
+ [Inputs 01](Module3-Day01-input-01.ipynb)
+ 
  ## Day 2
  
  ## Day 3
