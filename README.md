@@ -28,6 +28,8 @@
  
  [Inputs 01](Module3-Day01-input-01.ipynb)
  
+ [Inputs 02](Module3-Day01-inputs02.ipynb)
+ 
  ## Day 2
  
  ## Day 3
