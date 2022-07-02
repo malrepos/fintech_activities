@@ -30,6 +30,8 @@
  
  [Inputs 02](Module3-Day01-inputs02.ipynb)
  
+ [Lists](Module3-Day01-Lists.ipynb)
+ 
  ## Day 2
  
  ## Day 3
