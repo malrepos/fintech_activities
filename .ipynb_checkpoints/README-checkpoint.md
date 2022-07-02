@@ -32,6 +32,8 @@
  
  [Lists](Module3-Day01-Lists.ipynb)
  
+ [Dictionaries](Module3-Day01-Lists.ipynb)
+ 
  ## Day 2
  
  ## Day 3
