@@ -38,6 +38,8 @@
  
  [Loops](Module3-Day01-loops.ipynb)
  
+ [Functions-01](Module3-Day01-functions.ipynb)
+ 
  ## Day 2
  
  ## Day 3
