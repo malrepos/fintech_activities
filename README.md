@@ -42,5 +42,7 @@
  
  [Functions-02](Module3-Day01-functions02.ipynb)
  
+ [csv](Module03-Day01-csv.ipynb)
+ 
  ## Day 2
  
