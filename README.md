@@ -40,6 +40,7 @@
  
  [Functions-01](Module3-Day01-functions.ipynb)
  
+ [Functions-02](Module3-Day01-functions02.ipynb)
+ 
  ## Day 2
  
- ## Day 3
